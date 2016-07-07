@@ -2,7 +2,7 @@
   "name": "oath-server",
   "version": "0.1.0",
   "description": "Oath - Universal Promises (Server)",
-  "main": "index.js",
+  "main": "oath-server.js",
   "scripts": {
     "test": "mocha --reporter spec",
     "cover": "node_modules/istanbul/lib/cli.js cover node_modules/mocha/bin/_mocha -- -R spec test/*"
